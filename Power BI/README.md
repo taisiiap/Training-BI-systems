@@ -1,20 +1,15 @@
-## Техническое задание  
+# Creating a custom event dashboard for a news aggregator
 
-★★★★	
-#### Цель: 
-построить информативный дашборд, в стиле журналистского исследования о рынке Колбас и колбасной продукции.
- 
-#### Набор необходимых визуализаци:
-- Производство;  
-- Экспорт;  
-- Импорт
-- Фильтраци по видам, году, единицам измерения
+## Description:
+There are two tabs: first one with a general review of world market of sousage products, including import and export data. The secong tab shows internal market and it's metrics
 
-#### Аудитория:
-- Публичное выступление (защита аналитического отчета по рынку перед клиентом);
-- Донесение информации на конференциях перед широкой аудиторией в рамках журналистского исследования
+## Company profile:
+production and retail
 
-## Вот что получилось:
-[файл.pdf](https://github.com/taisiiap/Training-BI-systems/blob/main/Power-BI/power-bi-dashboard-sausages.pdf)
+## Stack:
+Power Bi
 
-Пришлю архив с ipbx по запросу
+## tags:
+data analisys, BI-analyst
+
+I can provide an archive with ipbx  on your demand :)
