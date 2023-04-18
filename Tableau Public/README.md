@@ -1,16 +1,13 @@
 # Creating a custom event dashboard for a news aggregator
 
-## Task:
-Using Yandex.Zen data to build a dashboard with metrics of user interaction with article cards
-
 ## Description:
-I worked on this project on a remote machine in the Yandex.Cloud service. I installed PostgreSQL and deployed a database. Then I wrote a pipeline script that allowed me to collect data for a certain time period, and set it up to work offline through crontab. To visualize the collected data, I wrote a dashboard script with several filters and also ran it on a remote machine. Based on the results, a presentation was prepared with the resulting graphs
+There are two tabs: first one with a general review of world market of sousage products, including import and export data. The secong tab shows internal market and it's metrics
 
 ## Company profile:
-online - services
+production and retail
 
 ## Stack:
-Tableau
+Power Bi
 
 ## tags:
-data analisys, Python, Pandas, BI-analyst
+data analisys, BI-analyst
