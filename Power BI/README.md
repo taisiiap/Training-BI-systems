@@ -1,10 +1,10 @@
-# Creating a custom event dashboard for a news aggregator
+# creating a custom dashboard for a company involved in sausage production and retail
 
 ## Description:
-There are two tabs: first one with a general review of world market of sousage products, including import and export data. The secong tab shows internal market and it's metrics
+There are two tabs: the first one provides a general review of the world market for sausage products, including import and export data. The second tab displays metrics related to the internal market.
 
 ## Company profile:
-production and retail
+The company is involved in sausage production and retail.
 
 ## Stack:
 Power Bi
@@ -12,4 +12,4 @@ Power Bi
 ## tags:
 data analisys, BI-analyst
 
-I can provide an archive with ipbx  on your demand :)
+I can provide an archive with the required ipbx files upon your request. :)
