@@ -1,4 +1,4 @@
-# creating a custom dashboard for a company involved in sausage production and retail
+# Creating a custom dashboard for a company involved in sausage production and retail
 
 ## Description:
 There are two tabs: the first one provides a general review of the world market for sausage products, including import and export data. The second tab displays metrics related to the internal market.
